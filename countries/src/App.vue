@@ -37,7 +37,4 @@ export default {
   h1{
     font-family: 'Pangolin', cursive;
   }
-
-
-
 </style>
